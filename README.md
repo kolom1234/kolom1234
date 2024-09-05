@@ -11,6 +11,11 @@
     <a href="mailto:kolom1357@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=tokyonight)](https://github.com/kolom1234/github-readme-stats)
+![Kolom's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolom1234&show_icons=true&theme=tokyonight)
+
   
 # 💪Skills
 ### Platforms & Languages
