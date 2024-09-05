@@ -1,0 +1,23 @@
+name: Generate Top Languages
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 매 시간마다 실행 (원하는 스케줄로 변경 가능)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Generate Top Languages
+        run: |
+          export TOKEN=${{ secrets.GH_STATS_TOKEN }}
+          curl -H "Authorization: token $TOKEN" "https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=dark&count_private=true" > README.md
