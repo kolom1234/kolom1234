@@ -14,10 +14,10 @@
 
 ##
 ![Kolom's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolom1234&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kolom1234&theme=tokyonight)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolom1234&theme=tokyonight)
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolom1234&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=dark&count_private=true&token=GH_STATS_TOKEN)]-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=dark&count_private=true&token=GH_STATS_TOKEN)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kolom1234&theme=tokyonight)](https://git.io/streak-stats)-->
   
 # 💪Skills
 ### Platforms & Languages
