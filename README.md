@@ -15,8 +15,9 @@
 ##
 ![Overview](https://raw.githubusercontent.com/kolom1234/github-stats-transparent/output/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/kolom1234/github-stats-transparent/output/generated/languages.svg)
-
+##
 ![Kolom's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolom1234&show_icons=true&theme=tokyonight)
+##
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolom1234&theme=tokyonight)
 
 
