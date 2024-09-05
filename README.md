@@ -13,7 +13,6 @@
     </a>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=tokyonight)](https://github.com/kolom1234/github-readme-stats)
 ![Kolom's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolom1234&show_icons=true&theme=tokyonight)
 
   
