@@ -26,25 +26,37 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolom1234&layout=compact&theme=dark&count_private=true&token=GH_STATS_TOKEN)]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kolom1234&theme=tokyonight)](https://git.io/streak-stats)-->
   
-# 💪Skills
-### Platforms & Languages
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Eclipse Ide](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL-4479A1.svg?&style=for-the-badge&logo=OpenCL&logoColor=white)
+## 💪Skills
+### Platforms && Development Tools
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white)
+![Eclipse Ide](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat-square)
+![OpenCL](https://img.shields.io/badge/OpenCL-4479A1.svg?&style=flat-square&logo=OpenCL&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 <!--
 **kolom1234/kolom1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
