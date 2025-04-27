@@ -4,7 +4,6 @@
 ---
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkolom1234&count_bg=%234B7FFF&title_bg=%232900AE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
