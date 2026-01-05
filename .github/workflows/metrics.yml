@@ -3,7 +3,10 @@ name: Metrics
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # 매일 00:00 UTC (KST 09:00)
+    - cron: "0 0 * * *"  # 매일 00:00 UTC (KST 오전 9시)
+
+permissions:
+  contents: write
 
 concurrency:
   group: metrics
@@ -12,21 +15,22 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           user: kolom1234
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 결과 파일 (repo 루트에 커밋됨)
           filename: github-metrics.svg
+
+          # 너무 무거우면 실패/타임아웃 나기 쉬워서, 일단 안정형으로 시작
           template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
 
-          base: header, activity, community, repositories
-          plugin_languages: yes
+          # 가벼운 플러그인만 우선
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_details: percentage
