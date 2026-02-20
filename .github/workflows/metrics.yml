@@ -16,21 +16,39 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+
+      # -----------------------------
+      # 메인 프로필 Metrics
+      # -----------------------------
       - uses: lowlighter/metrics@latest
         with:
           user: kolom1234
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 결과 파일 (repo 루트에 커밋됨)
           filename: github-metrics.svg
 
-          # 너무 무거우면 실패/타임아웃 나기 쉬워서, 일단 안정형으로 시작
           template: classic
-          base: header, activity, metadata
+          base: header, metadata
           config_timezone: Asia/Seoul
 
-          # 가벼운 플러그인만 우선
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: half-year   # ✅ 6개월 유지
+
+
+      # -----------------------------
+      # Languages 전용 Metrics
+      # -----------------------------
+      - uses: lowlighter/metrics@latest
+        with:
+          user: kolom1234
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: github-languages.svg
+
+          template: classic
+          base: ""
+
           plugin_languages: yes
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          plugin_languages_limit: 10
