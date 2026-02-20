@@ -26,7 +26,7 @@ jobs:
 
           # 너무 무거우면 실패/타임아웃 나기 쉬워서, 일단 안정형으로 시작
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Seoul
 
           # 가벼운 플러그인만 우선
